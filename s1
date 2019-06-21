@@ -1,0 +1,6 @@
+var gitGraph = new GitGraph({
+   template: "blackarrow",
+   mode: "compact",
+   orientation: "horizontal",
+   reverseArrow: true
+});
