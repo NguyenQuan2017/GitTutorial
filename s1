@@ -1,5 +1,5 @@
 var gitGraph = new GitGraph({
-   template: "blackarrow",
+   template: "black",
    mode: "compact",
    orientation: "horizontal",
    reverseArrow: true
